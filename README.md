@@ -1,0 +1,1 @@
+# algorithmen.datenstrukturen_blatt6
